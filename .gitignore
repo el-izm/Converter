@@ -1,0 +1,13 @@
+# Generated translator data
+/logs/
+/skipped/
+/output/
+/prefixed/
+/input/
+
+# Python bytecode and cache directories
+__pycache__/
+*.py[cod]
+
+# Language-specific local configuration
+/src/translator/atr_val.py
